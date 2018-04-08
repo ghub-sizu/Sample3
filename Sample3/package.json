@@ -1,0 +1,12 @@
+{
+  "name": "sample3",
+  "version": "0.0.0",
+  "description": "Sample3",
+  "main": "app.js",
+  "author": {
+    "name": "ms-a-"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
